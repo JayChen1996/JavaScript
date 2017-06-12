@@ -1,0 +1,1 @@
+Just some codes in study JavaScript
